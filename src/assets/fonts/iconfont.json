@@ -1,0 +1,79 @@
+{
+  "id": "2751803",
+  "name": "mayao",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "338280",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "554206",
+      "name": "店铺",
+      "font_class": "iconset0217",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "1601891",
+      "name": "销售",
+      "font_class": "xiaoshou",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "2076282",
+      "name": " 订单",
+      "font_class": "dingdan",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "2570089",
+      "name": "商品",
+      "font_class": "shangpin-tianchong",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "2578488",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "5835474",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "9143176",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e7e2",
+      "unicode_decimal": 59362
+    },
+    {
+      "icon_id": "12655487",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "18644565",
+      "name": "订单",
+      "font_class": "dingdan1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
