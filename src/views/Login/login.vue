@@ -1,16 +1,12 @@
 <template>
     <div>
-        222
+        login
     </div>
 </template>
 
 <script>
 export default {
-    name: 'BbbHome',
-
-    components: { ComponentName },
-
-    directives: { DirectiveName },
+    name: 'YaoyaoALogin',
 
     data() {
         return {
