@@ -6,7 +6,6 @@
                 <el-button @click="handerRef">返回首页</el-button>
             </div>           
         </div>
-        <h2>二皮不答应</h2>
     </div>
 </template>
 
